@@ -16,6 +16,13 @@ sections:
   label: Blog
   create: documents
   match: "*.md"
+- type: directory
+  path: ''
+  label: Teste
+  create: all
+  match: "**/*"
+  templates:
+  - page
 - type: document
   path: sidebars.json
   label: Sidebar
