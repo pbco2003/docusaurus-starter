@@ -5,7 +5,12 @@ title: Document Number 2
 
 This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com/)
 
+| A | S |
+|--|--|
+| 1 | 2 |
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MTYzODQ5N119
+eyJoaXN0b3J5IjpbLTExNTU0ODYzMDhdfQ==
 -->
